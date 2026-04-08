@@ -22,7 +22,7 @@
   * **Год:** 2025
   * **Инструмент:** GitHub Copilot (автокомплит и чат)
   * **Результат:** Рост числа закрытых задач на **26.08%**.
-  * **Ссылка:** [Management Science / SSRN](https://www.google.com/search?q=https://papers.ssrn.com/sol3/papers.cfm%3Fabstract_id%3D4527492)
+  * **Ссылка:** [Management Science / SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 
 ### 4\. Анализ Pull Requests нового поколения
 
