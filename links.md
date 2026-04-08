@@ -16,14 +16,6 @@
   * **Результат:** **+21% к скорости** выполнения задач. Качество кода осталось на прежнем уровне.
   * **Ссылка:** [arXiv:2405.12531](https://arxiv.org/abs/2405.12531)
 
-### 2\. Исследование Aalto University
-
-  * **Название:** *Generative AI and Software Developer Productivity*
-  * **Год:** 2025
-  * **Инструмент:** Gen AI + обучение промптингу
-  * **Результат:** **+40.2% к скорости**, рост качества кода на **26.2%**.
-  * **Ссылка:** [Aalto University Publication](https://www.google.com/search?q=https://www.aalto.fi/en/news/generative-ai-boosts-developer-productivity)
-
 ### 3\. Полевые эксперименты Microsoft и Fortune 100
 
   * **Название:** *The Effects of Generative AI on High-Skilled Work*
